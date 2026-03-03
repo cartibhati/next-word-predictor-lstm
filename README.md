@@ -9,15 +9,7 @@ The model is trained on text data and predicts the next probable word based on a
 - Python
 - TensorFlow / Keras
 - LSTM
-- NLP (Tokenization & Padding)
 
-## ⚙️ Model Architecture
-- Embedding Layer
-- LSTM Layer (150 units)
-- Dense Softmax Output Layer
-
-## 📊 Total Parameters
-~221K trainable parameters
 
 ## 🚀 How to Run
 1. Install dependencies
